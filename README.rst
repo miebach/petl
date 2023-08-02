@@ -1,3 +1,16 @@
+How to use this fork
+---------------------
+
+``pip3 install git+https://github.com/miebach/petl.git@master``
+
+In requirements.txt:
+
+``git+https://github.com/miebach/petl.git@master``
+
+----
+
+Original README:
+
 petl - Extract, Transform and Load
 ===================================================
 
